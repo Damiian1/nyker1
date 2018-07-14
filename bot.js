@@ -13,7 +13,7 @@ bot.on('ready', () => {
 	console.log('Login was successful hackerboi.\n' + 'Logged into: ' + bot.guilds.array());
 });
 
-bot.login("bot login code");
+bot.login("Mjg0MzQ4MTkwOTc3ODE4NjI1.DitnsA.69-sWV9hl7EPRliLgBAW3Om-vqs");
 
 bot.on("message", msg => {
 	//ban command
