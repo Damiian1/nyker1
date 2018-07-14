@@ -1,7 +1,7 @@
 ﻿var Discord = require("discord.js");
     bot = new Discord.Client();
 	pre = "^";
-	banMessage = "fuck uuuuu u have been banned";
+	banMessage = "banned banned banned";
 
 /*Message Checker --
 	defines if a code is a valid command*/
